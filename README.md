@@ -29,4 +29,7 @@ List of planned initial features:
   - [ ] Cache purging
   - [ ] DNS query forwarding
 
+
+This is when i first came with this idea...
+
 ![First Draft](/assets/first_draft.jpg)
