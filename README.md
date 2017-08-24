@@ -1,9 +1,11 @@
 ![Azul Logo](/assets/logo_3.png)
 
+[![Build Status](https://travis-ci.org/lsferreira42/azul.svg?branch=master)](https://travis-ci.org/lsferreira42/azul)
+
 # azul
 Azul is a new dns server built to be fast, simple, extensible and scalable.
 
-Azul is written in Golang and aim to be multiplatform.
+Azul is written in Golang.
 
 List of planned initial features:
 
