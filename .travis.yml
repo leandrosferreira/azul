@@ -1,0 +1,2 @@
+language: go
+script: go get github.com/lsferreira42/azul && go test
