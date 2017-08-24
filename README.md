@@ -1,7 +1,7 @@
 ![Azul Logo](/assets/logo_3.png)
 
 [![Build Status](https://travis-ci.org/lsferreira42/azul.svg?branch=master)](https://travis-ci.org/lsferreira42/azul)
-
+[![Code Climate](https://codeclimate.com/github/lsferreira42/azul.svg)](https://codeclimate.com/github/lsferreira42/azul)
 # azul
 Azul is a new dns server built to be fast, simple, extensible and scalable.
 
